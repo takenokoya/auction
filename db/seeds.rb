@@ -3,7 +3,7 @@ Item.create(
   description: "1995年のランニングマックスモデルの復刻版。時代を席巻した名モデルAIR MAX95。当時は
     斬新でハイテクなルックスがストリートのファッションシーンを席巻しました。",
   price: "25000",
-  seller: "Taro",
+  seller: "Taro"
   email: "kazuma@takahashi.org",
   image_url: "http://news.digitallab.biz/wordpress/wp-content/uploads/Nike-Air-Max-95-Neon.jpg"
 )
